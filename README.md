@@ -14,7 +14,7 @@ A smart mobile application designed to help students manage their attendance eff
 
 ## ✨ Features
 - **Smart Dashboards:** Real-time visualization of attendance stats.
-- **Attendance Goals:** Calculates exactly how many classes you need to attend to maintain **75%** and **50%** attendance.
+- **Attendance Goals:** Calculates exactly how many **days** you need to provide **biometric attendance** in the academic block to maintain **75%** and **50%** attendance.
 - **Smart Reminders:** Sends notifications to remind you to record your attendance.
 - **Skipping Calculator:** Intelligent recommendations on how many days you can safely skip while staying above the threshold.
 - **Clean UI:** A polished, user-friendly interface designed for daily use.
