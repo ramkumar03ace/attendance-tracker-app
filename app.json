@@ -1,12 +1,12 @@
 {
   "expo": {
-    "name": "attendance-app",
+    "name": "Project Attendance Tracker",
     "slug": "attendance-app",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/paint_icon2.png",
     "userInterfaceStyle": "light",
-    "newArchEnabled": true,
+    "newArchEnabled": false,
     "splash": {
       "image": "./assets/splash-icon.png",
       "resizeMode": "contain",
@@ -17,13 +17,29 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/paint_icon2.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.ramkumar.arcot2022.attendanceapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "@react-native-community/datetimepicker",
+      [
+        "expo-notifications",
+        {
+          "icon": "./assets/notification_icon.png",
+          "color": "#64B5F6"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "077acdd1-27e5-42e7-8bef-fa14b342c60c"
+      }
     }
   }
 }
