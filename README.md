@@ -18,12 +18,10 @@ A smart mobile application designed to help students manage their attendance eff
   <img src="./assets/ss/Screenshot_20251223-122103.png" width="30%" />
   <img src="./assets/ss/Screenshot_20251223-122049.png" width="30%" />
 </p>
+<br>
 <p align="center">
-  <img src="./assets/ss/Screenshot_20251223-121930.png" width="30%" />
   <img src="./assets/ss/Screenshot_20251223-121940.png" width="30%" />
   <img src="./assets/ss/Screenshot_20251223-121919.png" width="30%" />
-</p>
-<p align="center">
   <img src="./assets/ss/WhatsApp Image 2025-12-23 at 12.27.43 PM.jpeg" width="30%" />
 </p>
 
